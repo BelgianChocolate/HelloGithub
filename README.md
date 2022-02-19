@@ -1,4 +1,6 @@
-#HI!
-This is Chinmay Nagpal starting his first project of app development
+# HI!
+This is Chinmay Nagpal starting his first project of app development.
 
-##I am learning how to use github
+## I am learning how to use github
+Please wish me luck!
+
