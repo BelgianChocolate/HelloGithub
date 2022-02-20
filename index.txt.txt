@@ -1,2 +1,9 @@
 Hi!
 This time i will definitely leanr git and github.
+git status se start everytime.
+gid add . ke baad nothing is seen
+git status verifies
+pehle untracked thi
+ab tracked hain
+ab modified ho jayengi
+
